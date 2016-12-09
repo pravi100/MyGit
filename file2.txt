@@ -1,1 +1,2 @@
 Adding text to file 2
+Adding more text
