@@ -1,2 +1,5 @@
 Text file
 Adding more text to old file
+git revert
+Adding more text
+Adding further more text
